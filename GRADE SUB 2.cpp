@@ -66,10 +66,10 @@ int main() {
 	coursename ["FUNCTIONAL FRENCH 2"]=2.0;
 	
 	cout <<"ENTER PROGRAM: ";
-    getline(cin,program);
-    cout <<"ENTER INDEX NUMBER: " ;
-    cin >> indexNo;
-    cin.ignore();
+            getline(cin,program);
+        cout <<"ENTER INDEX NUMBER: " ;
+             cin >> indexNo;
+                 cin.ignore();
    
     string courses; //courses pursued that semester
     //sum of credithourS
